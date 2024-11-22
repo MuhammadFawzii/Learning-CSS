@@ -31,20 +31,6 @@ This repository contains assignments and resources for learning CSS through stru
 2. Each folder contains assignments with detailed examples and exercises.
 3. Review the code, complete the exercises, and experiment with CSS properties.
 
-## Topics Covered
-
-- **Lessons 01 to 04: Elements and Naming**
-  - Basics of HTML structure and CSS selectors.
-  - Naming conventions for classes and IDs.
-
-- **Lessons 05 to 08: Background, Margin, and Padding**
-  - Background properties: color, image, and position.
-  - Box model: margins and padding adjustments.
-
-- **Lessons 09 to 12: Borders, Outline, and Display**
-  - Border styles and outline differences.
-  - CSS display properties (block, inline, flex).
-
 ## Contributing
 
 Feel free to open an issue or submit a pull request to improve the content or fix issues.
