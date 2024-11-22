@@ -5,22 +5,22 @@ This repository contains assignments and resources for learning CSS through stru
 ## Repository Structure
 
 ### **#01 Elements and Naming - Lessons 01 to 04**
-- [Assignment 1](./#01%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20[1])
-- [Assignment 2](./#01%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20[2])
-- [Assignment 3](./#01%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20[3])
-- [Assignment 4](./#01%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20[4])
-- [Assignment 5](./#01%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20[5])
-- [Assignment 6](./#01%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20[6])
+- [Assignment 1](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2301%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20%5B1%5D)
+- [Assignment 2](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2301%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20%5B2%5D)
+- [Assignment 3](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2301%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20%5B3%5D)
+- [Assignment 4](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2301%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20%5B4%5D)
+- [Assignment 5](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2301%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20%5B5%5D)
+- [Assignment 6](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2301%20Elements%20And%20Naming-Lessons%2001%20to%2004/Assignment%20%5B6%5D)
 
 ### **#02 Background, Margin, Padding - Lessons 05 to 08**
-- [Assignment 1](./#02%20Background,%20Margin,%20Padding-Lessons%2005%20to%2008/Assignment%20[1])
-- [Assignment 2](./#02%20Background,%20Margin,%20Padding-Lessons%2005%20to%2008/Assignment%20[2])
-- [Assignment 3](./#02%20Background,%20Margin,%20Padding-Lessons%2005%20to%2008/Assignment%20[3])
-- [Assignment 4](./#02%20Background,%20Margin,%20Padding-Lessons%2005%20to%2008/Assignment%20[4])
+- [Assignment 1](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2302%20Background,%20Margin,%20Padding-Lessons%2005%20to%2008/Assignment%20%5B1%5D)
+- [Assignment 2](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2302%20Background,%20Margin,%20Padding-Lessons%2005%20to%2008/Assignment%20%5B2%5D)
+- [Assignment 3](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2302%20Background,%20Margin,%20Padding-Lessons%2005%20to%2008/Assignment%20%5B3%5D)
+- [Assignment 4](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2302%20Background,%20Margin,%20Padding-Lessons%2005%20to%2008/Assignment%20%5B4%5D)
 
 ### **#03 Border, Outline, Display - Lessons 09 to 12**
-- [Assignment 1](./#03%20Border,%20Outline,%20Display-Lessons%2009%20to%2012/Assignment%20[1])
-- [Assignment 2](./#03%20Border,%20Outline,%20Display-Lessons%2009%20to%2012/Assignment%20[2])
+- [Assignment 1](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2303%20Border,%20Outline,%20Display-Lessons%2009%20to%2012/Assignment%20%5B1%5D)
+- [Assignment 2](https://github.com/MuhammadFawzii/Learning-CSS/tree/d67afe782ec41808bf1b66ee0abaf8d6298e7f88/%2303%20Border,%20Outline,%20Display-Lessons%2009%20to%2012/Assignment%20%5B2%5D)
 
 ## How to Use This Repository
 
