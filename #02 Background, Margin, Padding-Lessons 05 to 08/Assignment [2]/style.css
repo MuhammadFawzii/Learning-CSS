@@ -1,0 +1,33 @@
+div {
+    width: 400px;
+    height: 400px;
+    color: white ;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: gainsboro;
+}
+
+/* First Div: Solid blueviolet background */
+.assign-2-shape-1 {
+    background-image: url("css-assignment-5-8.png");
+    background-repeat: no-repeat;
+}
+
+/* Second Div: Semi-transparent blueviolet (Alpha = 0.5) */
+.assign-2-shape-2 {
+    background-image: url("css-assignment-5-8.png");
+    background-repeat:repeat-y;
+    
+   
+}
+
+/* Third Div: Transparent blueviolet (Alpha = 0.1) */
+.assign-2-shape-3 {
+    background-image: url("css-assignment-5-8.png");
+    background-repeat: repeat-x;
+}
+/* Third Div: Transparent blueviolet (Alpha = 0.1) */
+.assign-2-shape-4 {
+    background-image: url("css-assignment-5-8.png");
+    background-repeat: repeat;
+}

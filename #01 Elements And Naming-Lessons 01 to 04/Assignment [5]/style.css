@@ -1,0 +1,28 @@
+/* Valid */
+._user-name {
+    color: black;
+}
+
+/* Not Valid */
+.-user-name {
+        color: black;
+}
+
+/* Not Valid */
+/* .1user-name {} */
+
+/* Not Valid */
+/* .@user-name {} */
+
+/* Not Valid */
+/* .user@name {} */
+
+/* Valid */
+._user10name {
+        color: black;
+}
+
+/* Valid */
+.u {
+        color: black;
+}

@@ -1,0 +1,19 @@
+/* Styles for elements with the class 'title' */
+.title {
+    color: #000;
+}
+
+/* Styles for the element with ID 'nav' */
+#nav {
+        color: #000;
+}
+
+/* Styles for all div elements */
+div {
+        color: #000;
+}
+
+/* Styles for all h2 elements */
+h2 {
+        color: #000;
+}

@@ -1,0 +1,34 @@
+div {
+    width: 500px;
+    padding: 20px;
+    margin: 10px auto;
+    color: white;
+}
+
+/* First Div: Solid blueviolet background */
+.assign-1-shape-1 {
+    background-color: blueviolet;
+    /* Name */
+    background-color: rgb(138, 43, 226);
+    /* RGB */
+    background-color: hsl(271, 76%, 53%);
+    /* HSL */
+    background-color: #8a2be2;
+    /* Hex */
+}
+
+/* Second Div: Semi-transparent blueviolet (Alpha = 0.5) */
+.assign-1-shape-2 {
+    background-color: rgba(138, 43, 226, 0.5);
+    /* RGB with Alpha */
+    background-color: hsla(271, 76%, 53%, 0.5);
+    /* HSL with Alpha */
+}
+
+/* Third Div: Transparent blueviolet (Alpha = 0.1) */
+.assign-1-shape-3 {
+    background-color: rgba(138, 43, 226, 0.1);
+    /* RGB with Alpha */
+    background-color: hsla(271, 76%, 53%, 0.1);
+    /* HSL with Alpha */
+}
